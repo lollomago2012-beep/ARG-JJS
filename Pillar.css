@@ -1,0 +1,76 @@
+
+#imgdiv{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#btndiv{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#btn1{
+    position: relative;
+    top: 247px;
+    right: 165px;
+}
+
+#btn2{
+    position: relative;
+    top: 345px;
+    right: 85px;
+}
+
+#btn3{
+    position: relative;
+    top: 88px;
+    right: -38px;
+}
+
+#btn4{
+    position: relative;
+    top: 385px;
+    right: -78px;
+}
+
+#btn5{
+    position: relative;
+    top: 185px;
+    right: -145px;
+}
+
+#btn6{
+    position: relative;
+    top: 205px;
+    right: 88px;
+}
+
+#btn7{
+    position: relative;
+    top: 185px;
+    right: -205px;
+}
+
+#btn8{
+    position: relative;
+    top: 88px;
+    right: 260px;
+}
+
+#btn9{
+    position: relative;
+    top: 281px;
+    right: 27px;
+}
+
+#code{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 500px;
+    FONT-FAMILY: Verdana;
+
+}
+
